@@ -1,0 +1,23 @@
+{
+  "name": "kathawala.github.io",
+  "homepage": "https://github.com/kathawala/kathawala.github.io",
+  "authors": [
+    "Farhan Kathawala <farhank@stanford.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "google-map": "GoogleWebComponents/google-map#^1.1.10",
+    "paper-material": "PolymerElements/paper-material#^1.0.6"
+  }
+}
